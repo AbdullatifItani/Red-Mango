@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a9b0cc8-a784-437c-a812-2c78a51c91f6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/redmangoedm",
+    "appService.deploySubpath": "."
+}
